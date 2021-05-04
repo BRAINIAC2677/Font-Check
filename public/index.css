@@ -32,7 +32,6 @@ body {
   border-radius: 10px;
   box-shadow: 0px 0px 0.7rem rgb(235, 167, 65);
   display: flex;
-  flex-wrap: wrap;
   margin: 1rem 5rem;
 }
 
@@ -45,5 +44,7 @@ body {
 .font-item p:last-child {
   font-style: normal;
   font-weight: normal;
+  overflow: hidden;
   padding: 1rem;
+  text-overflow: ellipsis;
 }
