@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Itim&family=Lobster&family=Pacifico&family=Permanent+Marker&family=Satisfy&family=Shadows+Into+Light&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.container {
+  padding-top: 5rem;
+}
+
+.text-box {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.text-box input {
+  font-size: 1rem;
+  padding: 0.8rem;
+  width: 60%;
+}
+
+.font-item {
+  border: solid rgb(247, 194, 115) 2px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 0.7rem rgb(235, 167, 65);
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem 5rem;
+}
+
+.font-item p:first-child {
+  background-color: blanchedalmond;
+  padding: 1rem;
+  width: 20%;
+}
+
+.font-item p:last-child {
+  font-style: normal;
+  font-weight: normal;
+  padding: 1rem;
+}
