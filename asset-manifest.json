@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Font-Check/static/js/main.f79dc98a.chunk.js",
+    "main.js.map": "/Font-Check/static/js/main.f79dc98a.chunk.js.map",
+    "runtime-main.js": "/Font-Check/static/js/runtime-main.40244c16.js",
+    "runtime-main.js.map": "/Font-Check/static/js/runtime-main.40244c16.js.map",
+    "static/js/2.2cc32462.chunk.js": "/Font-Check/static/js/2.2cc32462.chunk.js",
+    "static/js/2.2cc32462.chunk.js.map": "/Font-Check/static/js/2.2cc32462.chunk.js.map",
+    "index.html": "/Font-Check/index.html",
+    "static/js/2.2cc32462.chunk.js.LICENSE.txt": "/Font-Check/static/js/2.2cc32462.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40244c16.js",
+    "static/js/2.2cc32462.chunk.js",
+    "static/js/main.f79dc98a.chunk.js"
+  ]
+}
